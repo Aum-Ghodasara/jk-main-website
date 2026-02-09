@@ -18,6 +18,9 @@ const clients = [
   { src: '/home/client/c13.png', name: 'Client 13' },
   { src: '/home/client/c14.png', name: 'Client 14' },
   { src: '/home/client/c15.png', name: 'Client 15' },
+  { src: '/home/client/c16.png', name: 'Client 16' },
+
+
 ];
 
 export default function ClientsCarousel() {
