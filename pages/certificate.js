@@ -20,6 +20,18 @@ export default function Certificate() {
       src: "/certificates/c3.png",
       alt: "Certificate 3",
     },
+     {
+      src: "/certificates/c4.png",
+      alt: "Certificate 4",
+    },
+    {
+      src: "/certificates/c5.png",
+      alt: "Certificate 5",
+    },
+    {
+      src: "/certificates/c6.png",
+      alt: "Certificate 6", 
+    },
   ];
 
   return (
